@@ -1,0 +1,13 @@
+h753
+.vscode
+f429/f429.uvprojx
+f429/MDK-ARM/f429
+f429/MDK-ARM/f429/*.o
+f429/MDK-ARM/f429/*.crf
+f429/MDK-ARM/f429/*.d
+f429/MDK-ARM/f429/f429.axf
+f429/MDK-ARM/f429/f429.build_log.htm
+f429/MDK-ARM/f429/f429.htm
+f429/MDK-ARM/f429/f429.lnp
+f429/MDK-ARM/f429/f429.map
+f429/MDK-ARM/f429/f429_f429.dep
